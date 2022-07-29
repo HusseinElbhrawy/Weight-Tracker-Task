@@ -1,16 +1,11 @@
-# weight_tracker
+# Weight Tracker
 
-A new Flutter project.
+# Screens  
+![resized_Google Pixel 4 XL Presentation](https://user-images.githubusercontent.com/64389727/181811954-a84f39d2-d030-41e3-8f59-520f0b1a5422.png)
 
-## Getting Started
+# Video 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/64389727/181812001-dd130b2e-5cee-418a-a77f-19adf1a4dcc4.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
